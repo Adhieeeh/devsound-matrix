@@ -14,7 +14,7 @@ DevSound is a responsive single-page soundscape studio engineered using modern V
 *  **Encapsulated Composition Design:** Bundles system computation parameters, reactive HTML matrix blocks, and unique scoped element styles neatly inside a clean component package module (`App.vue`).
 
 ##  Running Instructions
-
+--------------------------------------------------------------------
 
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
