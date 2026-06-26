@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+#  DevSound — Multi-Layer Ambient Audio Board Engine (Vue.js)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DevSound is a responsive single-page soundscape studio engineered using modern Vue.js v3 composition rules. It leverages separate background instance initialization templates combined with structural computed data blocks to seamlessly overlay active sound vectors and track aggregate output volume load.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+##  Framework Implementation Details
+*  **Encapsulated Memory Lifecycles:** Uses the `onUnmounted` framework lifecycle engine hook to catch window closures and programmatically teardown system audio node memory configurations safely.
+*  **Encapsulated Composition Design:** Bundles system computation parameters, reactive HTML matrix blocks, and unique scoped element styles neatly inside a clean component package module (`App.vue`).
+
+##  Running Instructions
+1. Install dependencies: `npm install`
+2. Run development compiler: `npm run dev`
