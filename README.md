@@ -18,3 +18,5 @@ DevSound is a responsive single-page soundscape studio engineered using modern V
 
 1. Install dependencies: `npm install`
 2. Run development compiler: `npm run dev`
+
+----------------------------------------------------------------------
