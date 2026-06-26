@@ -1,5 +1,6 @@
 #  DevSound — Multi-Layer Ambient Audio Board Engine (Vue.js)
 
+
 DevSound is a responsive single-page soundscape studio engineered using modern Vue.js v3 composition rules. It leverages separate background instance initialization templates combined with structural computed data blocks to seamlessly overlay active sound vectors and track aggregate output volume load.
 
 ##  Framework Implementation Details
